@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://lwppkn.github.com
+title: lwppkn's Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: lwppkn
 simple_search: http://google.com/search
 description:
 
@@ -70,6 +70,9 @@ twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
 twitter_tweet_button: true
+
+# weibo
+weibo_share: true
 
 # Google +1
 google_plus_one: false
